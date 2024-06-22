@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohit-mukhi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently mastering java
 - 💞️ I’m looking to learn new technologies.
 - 📫 Reach me at rohitmukhi52@gmail.com
 
